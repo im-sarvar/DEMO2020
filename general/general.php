@@ -13,3 +13,8 @@ $arr1 = ['1','2','3','4'];
 $arr2 = ['1','2','3','4'];
 print_r(array_combine($arr, $arr2));
 ?>
+<style type="text/css">
+	*{
+		background: #000;
+	}
+</style>
